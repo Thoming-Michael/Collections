@@ -26,7 +26,12 @@ public class SimpleThreadPool {
         }
 
         System.out.println("Finished all threads");
+        
+        System.out.println("Running PrimeThread");
+        
+        PrimeRun p = new PrimeRun(143);
+        new Thread(p).start();
+        
     }
-
-
+    
 }

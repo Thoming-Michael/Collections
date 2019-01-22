@@ -15,7 +15,7 @@ import java.util.Queue;
  * @author mthoming
  */
 public class QueueExample {
-    public static void main(String[] args) throws Exception{
+    public static void mainOld(String[] args) throws Exception{
         
         Queue queueA = new LinkedList();
 
