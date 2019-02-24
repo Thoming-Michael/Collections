@@ -8,6 +8,9 @@ package Threading;
 import java.util.concurrent.ThreadPoolExecutor;
 
 /**
+ * Example 2 from the PowerPoint slide
+ * section #2 on the site, but can't get it working
+ * https://www.javacodegeeks.com/2013/01/java-thread-pool-example-using-executors-and-threadpoolexecutor.html
  *
  * @author mthoming
  */

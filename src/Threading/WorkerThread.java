@@ -6,7 +6,8 @@
 package Threading;
 
 /**
- *
+ * From example #2 in the PowerPoint slide
+ * https://www.javacodegeeks.com/2013/01/java-thread-pool-example-using-executors-and-threadpoolexecutor.html
  * @author mthoming
  */
 public class WorkerThread implements Runnable {
