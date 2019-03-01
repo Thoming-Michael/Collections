@@ -15,7 +15,7 @@ import java.util.Iterator;
  */
 public class List {
 
-        public static void mainOld(String[] args) throws Exception{
+        public static void main(String[] args) throws Exception{
         java.util.List listA = new ArrayList();
         
     	Scanner systemInScanner = new Scanner(System.in);

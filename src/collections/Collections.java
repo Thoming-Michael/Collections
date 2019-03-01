@@ -20,7 +20,7 @@ public class Collections {
      * @param args the command line arguments
      * @throws java.lang.Exception
      */
-    public static void mainEventually(String[] args) throws Exception{
+    public static void mainOld(String[] args) throws Exception{
         // TODO code application logic here
 
         System.out.println("\n"
